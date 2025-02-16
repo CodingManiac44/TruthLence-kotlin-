@@ -18,12 +18,13 @@ Spring Boot
 Maven
 
 
-PostgreSQL/MySQL (optional, depending on database choice)
+i used a h2 db here 
 
 Installation
 
 Clone the repository:
 git clone https://github.com/CodingManiac44/TruthLence-kotlin-.git
+
 cd kotlin-product-api
 
 API Endpoints
